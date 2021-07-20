@@ -1,6 +1,6 @@
 # App
 
-Project of angular study
+Angular study project - Curso de Desenvolvimento WEB com ES6, TypeScript e Angular (Udemy)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
